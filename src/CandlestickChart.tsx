@@ -143,9 +143,6 @@ export default function CandlestickChart() {
       const glowColor = bullish
         ? 'rgba(34, 197, 94, 0.5)'
         : 'rgba(239, 68, 68, 0.4)'
-      const dimColor = bullish
-        ? 'rgba(34, 197, 94, 0.25)'
-        : 'rgba(239, 68, 68, 0.2)'
 
       ctx.save()
       ctx.globalAlpha = globalAlpha
