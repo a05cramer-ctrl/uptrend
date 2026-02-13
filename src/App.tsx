@@ -3,7 +3,7 @@ import './App.css'
 import heroImage from './assets/uptrend-hero.jpg'
 import CandlestickChart from './CandlestickChart'
 
-const CA = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+const CA = '6iJ2sTaqdCBzjpdTsBmYtPZLtSzfdHE829dtMGofpump'
 
 /* ---- Matrix-style dollar rain ---- */
 function DollarRain() {
@@ -129,7 +129,7 @@ function App() {
           <span className="logo-text">$UPTREND</span>
           <div className="top-bar-actions">
             <a
-              href="https://x.com"
+              href="https://x.com/Uptrend_sol"
               target="_blank"
               rel="noopener noreferrer"
               className="twitter-btn"
